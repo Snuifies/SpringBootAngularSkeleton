@@ -1,14 +1,17 @@
 # SpringBootAngularSkeleton
 Skeleton to get up and running with Spring Boot and Angular
 
-Checkout: 
+Checkout:
+$
 $ git clone https://github.com/Snuifies/SpringBootAngularSkeleton.git
+$
 
 Build: 
 in the SpringBootAngularSkeleton folder run 
 $
 $ mvn package
 $
+
 The build will
 * Install node and angular dependencies by run the necessary npm commands
 * package and install the frontend in the maven repository
