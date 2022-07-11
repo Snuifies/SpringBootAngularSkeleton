@@ -26,10 +26,10 @@ you should see the Demo Angular application
 in the SpringBootAngularSkeleton/backend/target folder run:
 * java -jar backend-0.0.1-SNAPSHOT.jar
 
-in the browser navigate to http://localhost:8080
+### in the browser navigate to http://localhost:8080
 you should see the Demo Angular application
 
-stop the backend
+### stop the backend
 
 This is the skeleton to get started.
 
